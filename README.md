@@ -4,7 +4,7 @@ Angular version: ~12.
 
 Repo maintainers:
 
-- [Sergey Gultyayev](https://github.com/gultyaev)
+- [Shivam Srivastava]
 
 ## The purpose
 
